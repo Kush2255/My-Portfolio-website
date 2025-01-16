@@ -14,3 +14,4 @@ document.addEventListener('DOMContentLoaded', function () {
         seeMoreButton.addEventListener('click', showMoreProjects);
     }
 });
+
