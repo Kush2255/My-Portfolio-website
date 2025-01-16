@@ -79,8 +79,6 @@ nav ul li a:hover::after {
 .header-text h1 span {
     color: #ff004f;
 }
-
-/*----------------about------------------*/
 #about {
     padding: 80px 0;
     color: #ababab;
@@ -156,8 +154,6 @@ nav ul li a:hover::after {
 .tab-contents.active-tab {
     display: block;
 }
-
-/*--------------------Services----------*/
 #services {
     padding: 30px 0;
 }
@@ -259,14 +255,12 @@ nav ul li a:hover::after {
     border-radius: 6px;
     text-decoration: none;
     color: #fff;
-    transition: background 0.5s;
+    transition: background 0.9s;
 }
 
 .btn:hover {
     background: red;
 }
-
-/*----------------contact------------*/
 .contact-left {
     flex-basis: 35%;
 }
@@ -349,4 +343,7 @@ form .btn2 {
     color: #61b752;
     margin-top: -40px;
     display: block;
+}
+.more-projects {
+    display: none;
 }
