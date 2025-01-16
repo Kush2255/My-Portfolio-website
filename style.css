@@ -198,7 +198,6 @@ nav ul li a:hover::after {
     transform: translateY(-10px);
 }
 
-/* Portfolio Section */
 #portfolio {
     padding: 60px 0;
     background-color: black;
@@ -346,4 +345,10 @@ form .btn2 {
 }
 .more-projects {
     display: none;
+}
+.h2{
+    color:#eb4209;
+}
+.h{
+    color:#eb4209;
 }
